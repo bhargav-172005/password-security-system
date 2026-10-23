@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local secrets and databases
+.env
+users.db
+*.sqlite
+*.sqlite3
+instance/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Captured screenshots are intentional project deliverables; do not ignore screenshots/
